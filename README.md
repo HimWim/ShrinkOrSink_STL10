@@ -1,5 +1,3 @@
-### README.md
-
 # STL-10 Constant Predictor Model
 
 ## 🚀 Overview
