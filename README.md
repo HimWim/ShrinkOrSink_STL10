@@ -91,16 +91,6 @@ project_root/
 - Extremely low accuracy (~10%)
 - Does not learn from data
 - Not suitable for real-world applications
-- Intended only for **baseline and experimental purposes**
-
----
-
-## 🎯 Use Case
-
-This model is useful for:
-
-- Understanding evaluation metrics
-- Testing scoring systems
-- Exploring extreme model compression limits
+- Intended only for **experimental purposes**
 
 ---
